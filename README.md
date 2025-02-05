@@ -8,6 +8,19 @@ Before getting started, ensure you have the following installed:
 - Go (1.18 or later)
 - Docker
 
+## Run the API with make
+
+jp@jp-pc:~/crud-mongodb$ make
+Usage:
+  help          print this help message
+  run/api       run the cmd/api application
+  build/api     build the cmd/api application
+  clean/apps    clear generated bin files
+  docker/up     start the local stack in background
+  docker/down   shutdown the running containers
+  audit         tidy dependencies, format and vet all code
+  tidy          tidy dependencies
+
 ## Testing the API with cURL
 
 ### Create a New Person
