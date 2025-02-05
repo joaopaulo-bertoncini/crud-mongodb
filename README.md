@@ -1,6 +1,6 @@
 # Building a CRUD API with Go and MongoDB
 
-## Developing a RESTful API using Go and MongoDB is a great way to build scalable and efficient applications. In this tutorial, we will create a simple CRUD (Create, Read, Update, Delete) API using the Gin web framework and MongoDB as the database.
+### Developing a RESTful API using Go and MongoDB is a great way to build scalable and efficient applications. In this tutorial, we will create a simple CRUD (Create, Read, Update, Delete) API using the Gin web framework and MongoDB as the database.
 
 ### Prerequisites
 Before getting started, ensure you have the following installed:
