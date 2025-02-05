@@ -1,0 +1,15 @@
+version: "3.9"
+services:
+    mongo-db:
+        image: mongo
+        container_name: "local-mongodb"
+        expose:
+            - "27017"
+        ports:
+            - "27017:27017"
+        networks:
+            - docker-network
+
+networks:
+    docker-network:
+        driver: bridge
