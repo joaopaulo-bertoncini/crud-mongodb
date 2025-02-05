@@ -13,14 +13,14 @@ Before getting started, ensure you have the following installed:
 jp@jp-pc:~/crud-mongodb$ make
 
 Usage:\n
-  help          print this help message\n
-  run/api       run the cmd/api application\n
-  build/api     build the cmd/api application\n
-  clean/apps    clear generated bin files\n
-  docker/up     start the local stack in background\n
-  docker/down   shutdown the running containers\n
-  audit         tidy dependencies, format and vet all code\n
-  tidy          tidy dependencies\n
+  help          print this help message\\
+  run/api       run the cmd/api application\\
+  build/api     build the cmd/api application\\
+  clean/apps    clear generated bin files\\
+  docker/up     start the local stack in background\\
+  docker/down   shutdown the running containers\\
+  audit         tidy dependencies, format and vet all code\\
+  tidy          tidy dependencies\\
 
 ## Testing the API with cURL
 
